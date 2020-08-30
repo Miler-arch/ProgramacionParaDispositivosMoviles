@@ -1,2 +1,2 @@
-# practia1-ProgramacionParaDispositivosMoviles
+# practica1-ProgramacionParaDispositivosMoviles
 Hola Mundo
